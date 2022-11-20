@@ -10,6 +10,7 @@ class Test
         int y = 20;
         int result = AddNumber(x, y);
         Console.WriteLine(result);
+        Console.WriteLine("hello everyone");
         Console.ReadLine();
     }
 }
